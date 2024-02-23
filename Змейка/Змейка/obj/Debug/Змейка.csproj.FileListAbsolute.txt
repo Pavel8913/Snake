@@ -1,0 +1,21 @@
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Змейка\Змейка\bin\Debug\Змейка.exe.config
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Змейка\Змейка\bin\Debug\Змейка.exe
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Змейка\Змейка\bin\Debug\Змейка.pdb
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Змейка\Змейка\obj\Debug\Змейка.csproj.AssemblyReference.cache
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Змейка\Змейка\obj\Debug\Змейка.csproj.SuggestedBindingRedirects.cache
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Змейка\Змейка\obj\Debug\Змейка.Form1.resources
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Змейка\Змейка\obj\Debug\Змейка.Properties.Resources.resources
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Змейка\Змейка\obj\Debug\Змейка.csproj.GenerateResource.cache
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Змейка\Змейка\obj\Debug\Змейка.csproj.CoreCompileInputs.cache
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Змейка\Змейка\obj\Debug\Змейка.exe
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Змейка\Змейка\obj\Debug\Змейка.pdb
+F:\Змейка\Змейка\bin\Debug\Змейка.exe.config
+F:\Змейка\Змейка\bin\Debug\Змейка.exe
+F:\Змейка\Змейка\bin\Debug\Змейка.pdb
+F:\Змейка\Змейка\obj\Debug\Змейка.csproj.AssemblyReference.cache
+F:\Змейка\Змейка\obj\Debug\Змейка.Form1.resources
+F:\Змейка\Змейка\obj\Debug\Змейка.Properties.Resources.resources
+F:\Змейка\Змейка\obj\Debug\Змейка.csproj.GenerateResource.cache
+F:\Змейка\Змейка\obj\Debug\Змейка.csproj.CoreCompileInputs.cache
+F:\Змейка\Змейка\obj\Debug\Змейка.exe
+F:\Змейка\Змейка\obj\Debug\Змейка.pdb
